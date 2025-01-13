@@ -1,4 +1,4 @@
-# Anemia-Prediction
+# Anemia Prediction (In progress)
 
 ## Dataset
 Data was collected from anemia patients at Aalok Healthcare Ltd., located in Dhaka, Bangladesh on 9th October 2023 (https://data.mendeley.com/datasets/y7v7ff3wpj/1)
