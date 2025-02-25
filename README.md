@@ -1,6 +1,7 @@
 # Anemia Prediction (In progress)
 ## 1. Overview
-Anemia is a complex medical condition affecting millions worldwide, characterized by a deficiency in healthy red blood cells or hemoglobin. This project emerges from a critical need to leverage advanced data science techniques for early and accurate anemia detection.
+This project implements a web application for predicting anemia risk using machine learning. The app allows users to input their hematological parameters and receive an anemia diagnosis based on a trained predictive model. It leverages Streamlit for an interactive interface and uses advanced machine learning techniques to assess anemia status.
+
 Traditional diagnostic methods often rely on manual interpretation of hematological parameters, which can be time-consuming and prone to human error. Our research aims to bridge this gap by developing a sophisticated machine learning approach that:
 
 - Provides rapid, data-driven anemia risk assessment
@@ -8,7 +9,7 @@ Traditional diagnostic methods often rely on manual interpretation of hematologi
 - Offers personalized insights based on comprehensive statistical analysis
 - Democratizes access to advanced diagnostic tools
 
-Built upon groundbreaking research by Mojumdar et al. (2025), this project represents a convergence of clinical expertise and cutting-edge data science, transforming how we approach anemia diagnosis and early intervention.
+Built upon groundbreaking research by [Mojumdar et al. (2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11699093/), this project represents a convergence of clinical expertise and cutting-edge data science, transforming how we approach anemia diagnosis and early intervention.
 
 Check out the live Streamlit App [here](https://heartriskprediction.streamlit.app/).
 
