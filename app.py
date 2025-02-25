@@ -780,6 +780,10 @@ def main():
     if app_mode == "About":
         st.header("Introduction")
         st.write("""
+        This project implements a web application for predicting anemia risk using machine learning. The app allows users to input their hematological parameters and receive an anemia diagnosis based on a trained predictive model. 
+        It leverages Streamlit for an interactive interface and uses advanced machine learning techniques to assess anemia status.
+
+
         This project builds upon the foundational work of [Mojumdar et al., 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC11699093/), which
         used traditional statistical methods like Chi-Square tests and T-tests to explore associations between biological factors and anemia.
         Building on these insights, our goal is to apply machine learning techniques to uncover more complex, non-linear relationships in
