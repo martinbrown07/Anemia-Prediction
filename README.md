@@ -11,7 +11,7 @@ Traditional diagnostic methods often rely on manual interpretation of hematologi
 
 Built upon groundbreaking research by [Mojumdar et al. (2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11699093/), this project represents a convergence of clinical expertise and cutting-edge data science, transforming how we approach anemia diagnosis and early intervention.
 
-Check out the live Streamlit App [here](https://heartriskprediction.streamlit.app/).
+Check out the live Streamlit App [here](https://anemia-diagnosis.streamlit.app/).
 
 ## 2. Features
 
