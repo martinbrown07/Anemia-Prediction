@@ -1,4 +1,4 @@
-# Anemia Prediction (In progress)
+# Anemia Prediction
 ## 1. Overview
 This project implements a web application for predicting anemia risk using machine learning. The app allows users to input their hematological parameters and receive an anemia diagnosis based on a trained predictive model. It leverages Streamlit for an interactive interface and uses advanced machine learning techniques to assess anemia status.
 
